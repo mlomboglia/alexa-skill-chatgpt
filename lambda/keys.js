@@ -1,0 +1,1 @@
+module.exports.OPEN_AI_KEY = 'ADD YOUR CHATGPT KEY';

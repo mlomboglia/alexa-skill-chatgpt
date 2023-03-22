@@ -1,0 +1,8 @@
+node_modules/
+lambda/node_modules/
+package-lock.json
+.DS_Store
+ask-resources.json
+.ask
+.vscode
+.env
