@@ -1,5 +1,5 @@
-# How to interact with ChatGPT from your Alexa with complete source code
-Quickly Build an Alexa Skill to talk with ChatGPT
+# Quickly Build an Alexa Skill to talk with ChatGPT
+How to interact with ChatGPT from your Alexa with complete source code
 
 ![Alt Alexa Skill + ChatGPT](/img/alexa-chatgpt.jpg)
 
